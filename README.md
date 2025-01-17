@@ -1,16 +1,18 @@
-# currency_converter
+# Currency Converter App
 
-A new Flutter project.
+A simple Flutter app that converts US Dollars (USD) into Nepali Rupees (NPR). The app is designed for quick and accurate currency conversion with a user-friendly interface.
 
-## Getting Started
+## Features
+- Converts USD to NPR in real-time using the current exchange rate (can be manually set if no API is connected).
+- Simple and intuitive UI for ease of use.
+- Error handling for invalid or empty inputs.
+- Lightweight and fast performance.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![image](https://github.com/user-attachments/assets/ccb203bb-64b6-4455-a8c8-77c858b71a94)
+![image](https://github.com/user-attachments/assets/067c1b5f-f4b3-468f-8b9c-534e82e78118) 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
