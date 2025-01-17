@@ -3,9 +3,8 @@
 A simple Flutter app that converts US Dollars (USD) into Nepali Rupees (NPR). The app is designed for quick and accurate currency conversion with a user-friendly interface.
 
 ## Features
-- Converts USD to NPR in real-time using the current exchange rate (can be manually set if no API is connected).
+- Converts USD to NPR. 
 - Simple and intuitive UI for ease of use.
-- Error handling for invalid or empty inputs.
 - Lightweight and fast performance.
 
 ## Screenshots
